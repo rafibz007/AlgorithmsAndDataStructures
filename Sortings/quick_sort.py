@@ -80,4 +80,5 @@ def quick_sort(array: list) -> list:
     return array
 
 
-print(quick_sort([-12, 235, 457, 23, 0, 12, 0, -10, 1]))
+# print(quick_sort([-12, 235, 457, 23, 0, 12, 0, -10, 1]))
+# print(quick_sort([0,0,0,1,0,0,0,-1,0,0,0]))
